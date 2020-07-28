@@ -10,7 +10,13 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+//本番用
+Route::get('jobs', function () {
+    return view('facebook.check');
+    // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //Biscor(Aトレード)リダイレクト
+});
 
-Route::get('/', function () {
-    return view('welcome');
+//LP確認用
+Route::get('cccheck', function () {
+    return view('facebook.check');
 });
