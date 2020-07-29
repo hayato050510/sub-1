@@ -12,8 +12,8 @@
 */
 //本番用
 Route::get('jobs', function () {
-    return view('facebook.check');
-    // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //Biscor(Aトレード)リダイレクト
+    // return view('facebook.check');
+    return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //Biscor(Aトレード)リダイレクト
 });
 
 //LP確認用
