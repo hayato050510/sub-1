@@ -13,10 +13,12 @@
 //本番用
 Route::get('jobs', function () {
     return view('facebook.check');
+    // return view('facebook.job'); //獲得LP(1)
+    
     // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //Biscor(Aトレード)リダイレクト
 });
 
 //LP確認用
 Route::get('cccheck', function () {
-    return view('facebook.check');
+    return view('facebook.job');
 });
