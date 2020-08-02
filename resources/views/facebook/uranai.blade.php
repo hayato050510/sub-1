@@ -31,7 +31,7 @@
             <img src="{{ asset('image/uranai_2.jpg') }}"></img>
         </div>
         <div class="button">
-            <a href="https://preaf.jp/pa.do?s=v04031&o=47131&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://preaf.jp/pa.do?s=v04031&o=46142&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
             <p>※無料診断は公式アプリから...!</p>
         </div>
         <br>
