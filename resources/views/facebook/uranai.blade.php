@@ -13,7 +13,9 @@
             <img src="{{ asset('image/uranai_1.jpg') }}"></img>
             <h1>あなたの人生、<br>今で満足ですか...?</h1>
             <br>
+            <br>
             <h1>今の彼氏・旦那は、<br>本当に理想のパートナー?</h1>
+            <br>
             <br>
             <h1>ダイエットまた失敗...。<br>頑張ってるのになぜ...?</h1>
             <br>
@@ -21,7 +23,6 @@
             <h3>・</h3>
             <h3>・</h3>
             <h3>悩みを抱えるだけじゃ解決しない。<br><span>占いの専門家</span>に相談しない...?<br><br><span>完全無料</span>で悩み解決の糸口に!?<br><br><span>心理テスト感覚</span>でOK！<br>初心者歓迎！</h3>
-            <br>
             <br>
         </header>
         
@@ -35,6 +36,7 @@
         </div>
         <br>
         
+        <img src="{{ asset('image/lp_job_footer.jpg') }}"></img>
         <!--<div class="body">-->
         <!--    <h4>対面診断だと3ヶ月待ち!?<br><span>TVで有名なあの人</span>にオンラインで今すぐ診断してもらう!?</h4>-->
         <!--    <img src="{{ asset('image/uranai_2.jpg') }}"></img>-->
