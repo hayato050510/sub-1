@@ -24,6 +24,12 @@
             <h3>・</h3>
             <h3>悩みを抱えるだけじゃ解決しない。<br><span>占いの専門家</span>に相談しない...?<br><br><span>完全無料</span>で悩み解決の糸口に!?<br><br><span>心理テスト感覚</span>でOK！<br>初心者歓迎！</h3>
             <br>
+            <div class="button">
+                <a href="https://preaf.jp/pa.do?s=v04031&o=46142&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                <p>※無料診断は公式アプリから...!</p>
+            </div>
+            <br>
+            <br>
         </header>
         
         <div class="header-sub">
