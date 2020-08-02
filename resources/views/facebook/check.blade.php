@@ -10,9 +10,9 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/shotworks.png') }}"></img>
+        <img src="{{ asset('image/line_uranai.png') }}"></img>
         <div class="button">
-                <a href="https://apps.apple.com/jp/app/%E7%9F%AD%E6%9C%9F%E3%83%90%E3%82%A4%E3%83%88%E3%81%AA%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/id517642132" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://apps.apple.com/jp/app/line%E5%8D%A0%E3%81%84/id595265709" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
         </div>
         <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
     </body>

@@ -11,7 +11,7 @@
 |
 */
 //本番用
-Route::get('jobs', function () {
+Route::get('app', function () {
     return view('facebook.check');
     // return view('facebook.uranai'); //獲得LP(2) - 占い案件LP
     
