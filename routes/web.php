@@ -12,8 +12,8 @@
 */
 //本番用
 Route::get('app', function () {
-    // return view('facebook.check');
-    return view('facebook.uranai'); //獲得LP(2) - 占い案件LP
+    return view('facebook.check');
+    // return view('facebook.uranai'); //獲得LP(2) - 占い案件LP
     
     // return view('facebook.job'); //獲得LP(1)
     // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //Biscor(Aトレード)リダイレクト
