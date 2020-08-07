@@ -32,7 +32,7 @@
             <!--<h3>悩みを抱えるだけじゃ解決しない。<br><span>占いの専門家</span>に相談しない...?<br><br><span>完全無料</span>で悩み解決の糸口に!?<br><br><span>心理テスト感覚</span>でOK！<br>初心者歓迎！</h3>-->
             <!--<br>-->
             <br>
-            <img src="{{ asset('image/uranai_2.jpg') }}"></img>
+            <a href="https://preaf.jp/pa.do?s=v04031&o=46142&guid=ON" target="_blank"><img src="{{ asset('image/uranai_2.jpg') }}"></img></a>
             <div class="header-sub">
                 <h2>統計に基づいた<br><span>『深層心理診断』</span>も！</h2>
             </div>
