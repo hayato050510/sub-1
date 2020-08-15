@@ -10,12 +10,12 @@
     </head>
     <body>
         <header>
-            <p>激ヤバ話題まとめ@5ch</p>
+            <p>本当にあった裏アプリ都市伝説</p>
         </header>
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>裏垢女子と繋がる！割とガチでえぐいw<br>裏垢女子がこぞって出会い探してるwww</span></h1>
+                <h1><span>裏垢女子がこぞって動画をUPする<br>「裏TikTok」が本当にあったwww</span></h1>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=46997&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=46997&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                 <!--<p>生配信のスクショ! IDで検索すれば過去配信閲覧できるでー</p>-->
