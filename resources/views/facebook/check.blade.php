@@ -10,9 +10,9 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/pococha.png') }}"></img>
+        <img src="{{ asset('image/tik_app.png') }}"></img>
         <div class="button">
-                <a href="https://apps.apple.com/jp/app/pococha-%E3%83%9D%E3%82%B3%E3%83%81%E3%83%A3-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1-%E3%82%A2%E3%83%97%E3%83%AA/id1175969205" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://apps.apple.com/jp/app/tiktok-%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%88%E3%83%83%E3%82%AF/id1235601864" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
         </div>
         <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
     </body>
